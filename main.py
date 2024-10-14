@@ -8,6 +8,8 @@ import pickle
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
+export NVIDIA_API_KEY = "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"
+
 st.set_page_config(layout="wide")
 
 # Component #1 - Document Upload
